@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write(300),document.querySelector("h1").onclick=function(){return alert("radi")}})();
